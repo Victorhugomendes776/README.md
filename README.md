@@ -246,3 +246,17 @@
 
 </body>
 </html>
+
+## Como Executar o Projeto
+
+
+Para visualizar a landing page, siga os seguintes passos:
+
+
+1. **Clonando o Repositório**:
+   - Use o comando abaixo para clonar o repositório para o seu computador:
+   
+     ```bash
+     git clone https://github.com/usuario/repositorio.git
+
+
